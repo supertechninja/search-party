@@ -1,4 +1,4 @@
-package com.mcwilliams.sunshine
+package com.mcwilliams.searchparty
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry

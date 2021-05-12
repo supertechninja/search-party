@@ -1,4 +1,4 @@
-package com.mcwilliams.sunshine.theme
+package com.mcwilliams.searchparty.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

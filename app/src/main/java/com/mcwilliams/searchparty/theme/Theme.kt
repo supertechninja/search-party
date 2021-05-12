@@ -1,4 +1,4 @@
-package com.mcwilliams.sunshine.theme
+package com.mcwilliams.searchparty.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -31,7 +31,7 @@ onSurface = Color.Black,
 )
 
 @Composable
-fun LetsComposeTheme(
+fun QuoDbTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable() () -> Unit
 ) {

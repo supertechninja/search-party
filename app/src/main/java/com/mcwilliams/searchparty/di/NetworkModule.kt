@@ -1,6 +1,6 @@
-package com.mcwilliams.sunshine.di
+package com.mcwilliams.searchparty.di
 
-import com.mcwilliams.sunshine.network.QuoDbApi
+import com.mcwilliams.searchparty.network.QuoDbApi
 import dagger.Module
 import dagger.Provides
 import dagger.Reusable

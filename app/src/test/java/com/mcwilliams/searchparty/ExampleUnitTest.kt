@@ -1,4 +1,4 @@
-package com.mcwilliams.sunshine
+package com.mcwilliams.searchparty
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

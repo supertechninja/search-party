@@ -1,4 +1,4 @@
-package com.mcwilliams.sunshine.theme
+package com.mcwilliams.searchparty.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.graphics.Color

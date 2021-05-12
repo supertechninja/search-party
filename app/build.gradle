@@ -67,15 +67,11 @@ dependencies {
     implementation "androidx.compose.runtime:runtime-livedata:$compose_version"
     implementation "androidx.compose.runtime:runtime:$compose_version"
 
-    implementation "com.airbnb.android:lottie-compose:1.0.0-alpha07-SNAPSHOT"
-
-    implementation "androidx.constraintlayout:constraintlayout-compose:1.0.0-alpha05"
-
     implementation "com.squareup.retrofit2:retrofit:2.6.1"
     implementation "com.squareup.retrofit2:converter-gson:2.6.1"
     implementation 'com.squareup.okhttp3:logging-interceptor:3.8.0'
 
-    implementation "dev.chrisbanes.accompanist:accompanist-coil:0.6.2"
+    implementation "com.google.accompanist:accompanist-coil:0.9.1"
 
     //Dagger Hilt
     implementation "androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha01"

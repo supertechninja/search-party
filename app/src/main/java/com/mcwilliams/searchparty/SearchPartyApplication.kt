@@ -1,8 +1,8 @@
-package com.mcwilliams.sunshine
+package com.mcwilliams.searchparty
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class SunshineApplication : Application() {
+class SearchPartyApplication : Application() {
 }
